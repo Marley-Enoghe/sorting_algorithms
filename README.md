@@ -1,1 +1,1 @@
-# sorting_algorithms project
+# The sorting_algorithms project
